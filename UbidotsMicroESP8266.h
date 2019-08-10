@@ -57,7 +57,7 @@ Modified by: Maria Carlina Hernandez
 #define VERSION "1.3"
 #endif
 #ifndef DEFAULT_DEVICE_NAME
-#define DEFAULT_DEVICE_NAME "ESP8266"
+#define DEFAULT_DEVICE_NAME "ESP8266 DATA"
 #endif
 
 const float ERROR_VALUE = -3.4028235E+8;
